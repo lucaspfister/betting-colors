@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36faf17020ad9aa429184b6ecb6ef610, type: 3}
+  m_Name: ChipSettings
+  m_EditorClassIdentifier: 
+  chips:
+  - value: 1
+    material: {fileID: 2100000, guid: 0a3ebd0cf3f5ad24385dc11216afc9f0, type: 2}
+    texture: {fileID: 2800000, guid: ef06d0755f7986b44bc21a89c4aa8bdd, type: 3}
+    initialAmount: 10
+  - value: 5
+    material: {fileID: 2100000, guid: 278d20f57e86d5e43b6e9ce41b816042, type: 2}
+    texture: {fileID: 2800000, guid: 2384d239094a9cf419c5d67ad623c9c9, type: 3}
+    initialAmount: 10
+  - value: 10
+    material: {fileID: 2100000, guid: 5171f27e486a4b2459818054a11ade3e, type: 2}
+    texture: {fileID: 2800000, guid: 795118a4b9ed11a4ba5a30dd9d6a7e00, type: 3}
+    initialAmount: 10
+  - value: 25
+    material: {fileID: 2100000, guid: 7f7dcb7972d5db04cbeb2505debb1bc0, type: 2}
+    texture: {fileID: 2800000, guid: f261f18391904cf408fa77687f7661cb, type: 3}
+    initialAmount: 10
+  - value: 50
+    material: {fileID: 2100000, guid: 515866363459e3942acb73251ab9d54c, type: 2}
+    texture: {fileID: 2800000, guid: 8e22e2a7c071aa64da5717ac37e77a82, type: 3}
+    initialAmount: 10
+  - value: 100
+    material: {fileID: 2100000, guid: dd4e34244b181a248938aac4468a9eb0, type: 2}
+    texture: {fileID: 2800000, guid: 175829d7f250b0f4ab83c9bbf7e20832, type: 3}
+    initialAmount: 10
+  - value: 500
+    material: {fileID: 2100000, guid: 9ab8aa0aec107b742a628c8db876d347, type: 2}
+    texture: {fileID: 2800000, guid: 69fd0f7bc48de5d428d686b118c78a48, type: 3}
+    initialAmount: 10
+  - value: 1000
+    material: {fileID: 2100000, guid: c4cfa9e264f94c347a77cddb43c91677, type: 2}
+    texture: {fileID: 2800000, guid: e4dd429127d83d644855498447331039, type: 3}
+    initialAmount: 10
+  - value: 5000
+    material: {fileID: 2100000, guid: f445300cddd9a14428e723e496f777b9, type: 2}
+    texture: {fileID: 2800000, guid: 146992ce1020019468663d98bfbd3fbc, type: 3}
+    initialAmount: 10
+  - value: 10000
+    material: {fileID: 2100000, guid: 98a7b60ee11dd7f4d90df4a1f35540b3, type: 2}
+    texture: {fileID: 2800000, guid: 049c324ff3e22914f954f63b4815a502, type: 3}
+    initialAmount: 10
+  spaceBetweenChips: 0.03
